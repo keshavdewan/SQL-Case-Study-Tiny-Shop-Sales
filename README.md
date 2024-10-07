@@ -10,6 +10,8 @@ There are four tables. These are
 - Orders: Here, all the order data is stored which were placed by customers. In this table, the order ID, customer ID, and order date columns are included.
 - Order_Items: This table contains the order ID, Product ID and quantity ordered.
 
+ - [Creating Tables & Insert Data](https://github.com/keshavdewan/SQL-Case-Study-Tiny-Shop-Sales/blob/62211999ea66421cb4a0e5398c7c89742640e7da/Creating%20Tables%20%26%20Inserting%20Data.sql)
+
 # Analysis Criteria
 The case study utilises the following areas (commands) of SQL:
 - Basic aggregations
