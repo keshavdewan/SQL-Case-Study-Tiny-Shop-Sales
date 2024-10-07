@@ -1,4 +1,4 @@
-# SQL-Case-Study---Tiny-Shop-Sales
+# SQL Case-Study: Tiny-Shop-Sales
 This case study has been provided by Data in Motion. The case study talks about a small restaurant. They want a brief analysis of their sales, product performance, orders, and sales trends. So, I have written some SQL queries to find insights from the given data. This case study has been done by using PostgreSQL
 
 ![Tinyshopsales.png](https://github.com/keshavdewan/SQL-Case-Study-Tiny-Shop-Sales/blob/a6a4848399869797dfed291cbaef7ccfeb962f24/Tinyshopsales.png)
